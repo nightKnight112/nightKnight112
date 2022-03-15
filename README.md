@@ -1,4 +1,6 @@
-## Hi there 👋, Archisman here😊😊😊
+<img src="https://giffiles.alphacoders.com/209/209661.gif" width="280" heigth="420"/> <img src="https://c.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif" heigth="420" width="280"/> 
+
+## hELLO pEEPs <img src="https://media4.giphy.com/media/XHwTHsi22ubL1o6Yf5/200.gif?cid=95b27944905a8e48b4c4b4321ed188db6c3fde36558a1c25&rid=200.gif&ct=s" width="59px;" style="padding-top: 10px; float: left;"> , arCHisMAN hEre😊😊😊
 
  Currently in my 3rd Year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
 - 🎓👨‍🎓 due fall 2023 <br>
