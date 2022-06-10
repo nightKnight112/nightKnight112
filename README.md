@@ -1,6 +1,6 @@
 <img src="https://giffiles.alphacoders.com/209/209661.gif" width="280" heigth="420"/> <img src="https://c.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif" heigth="420" width="280"/> 
 
-## hELLO pEEPs <img src="https://media4.giphy.com/media/XHwTHsi22ubL1o6Yf5/200.gif?cid=95b27944905a8e48b4c4b4321ed188db6c3fde36558a1c25&rid=200.gif&ct=s" width="59px;" style="padding-top: 10px; float: left;"> , arCHisMAN hEre😊😊😊
+## hELLO pEEPs , arCHisMAN hEre😊😊😊
 
  Currently in my 3rd Year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
 - 🎓👨‍🎓 due fall 2023 <br>
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### ⚙️🔧 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;"> Tools and Technologies Known/Worked With <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Developer.gif" width="59px;"> 🔧⚙️ <br/>
+### ⚙️🔧Tools and Technologies Known/Worked With  🔧⚙️ <br/>
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>]()
@@ -38,7 +38,7 @@
 <br>
 <br>
 
-### 📞📧 <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"> Reach Out to me at <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="79px"> 📧📞 ###
+### 📞📧  Reach Out to me at  📧📞 ###
  [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/das-archisman-10027001/)
  [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>](https://twitter.com/Archism07434046)
  [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>](https://github.com/nightKnight112)
