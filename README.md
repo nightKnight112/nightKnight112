@@ -4,7 +4,7 @@
 
  Currently in my final Year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
 - 🎓👨‍🎓 due fall 2023 <br>
-- currently serving as a member of Board of Directors in KGEC Robotics Society <br>
+- currently serving as a member of the Board of Directors in KGEC Robotics Society <br>
                   
    - 🔭 I’m currently working on Neural Networks, Deep Learning, NLP and Image Processing
    - 🌱 I’m currently learning Fullstack Dev, Spring framework
