@@ -2,7 +2,7 @@
 
 ## hELLO pEEPs , arCHisMAN hEre😊😊😊
 
- Currently in my Final year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
+ Currently in my final Year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
 - 🎓👨‍🎓 due fall 2023 <br>
 - currently serving as a member of Board of Directors in KGEC Robotics Society <br>
                   
