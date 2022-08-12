@@ -27,7 +27,7 @@
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>]()
-[<img align = "left" width = "40px" height = "40px" src = "https://symbols.getvecta.com/stencil_90/39_opencv-icon.247c70711b.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>]()
