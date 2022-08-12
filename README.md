@@ -2,12 +2,12 @@
 
 ## hELLO pEEPs , arCHisMAN hEre😊😊😊
 
- Currently in my 3rd Year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
+ Currently in my Final year of study on Electronics and Communication Engineering at Kalyani Government Engineering College <br>
 - 🎓👨‍🎓 due fall 2023 <br>
-- currently serving as the Head Technical Lead in KGEC Robotics Society <br>
+- currently serving as a member of Board of Directors in KGEC Robotics Society <br>
                   
-   - 🔭 I’m currently working on Object detection systems and Image Processing
-   - 🌱 I’m currently learning Fullstack Dev, Spring Boot
+   - 🔭 I’m currently working on Neural Networks, Deep Learning, NLP and Image Processing
+   - 🌱 I’m currently learning Fullstack Dev, Spring framework
    - 👯 I’m looking to collaborate on anything and everthing that you could come up with
    - 💬 Ask me about any problems related to my skillset. May not be able to solve; but hey, we surely can come up with something together...
    - 😄 Pronouns: He/His
