@@ -33,6 +33,8 @@
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>]() <br />
 
 <br>
