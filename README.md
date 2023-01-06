@@ -26,6 +26,9 @@
 [<img align = "left" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>]()
+[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>]()
@@ -33,8 +36,6 @@
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>]()
-[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>]()
-[<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"/>]() <br />
 
 <br>
