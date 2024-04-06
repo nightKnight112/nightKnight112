@@ -17,8 +17,6 @@
 <br>
 
 ### ⚙️🔧Tools and Technologies Known/Worked With  🔧⚙️<br/>
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>]()
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]()
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]()
