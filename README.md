@@ -4,7 +4,6 @@
 
  Currently working as a Developer in Tata Consultancy Services <br>
    - 🎓👨‍🎓 fall 2023         
-   - 🔭 I’m currently working on Neural Networks, Deep Learning, NLP and Image Processing
    - 🌱 I’m currently working on Next.JS, Spring framework
    - 👯 I’m looking to collaborate on anything and everthing that you could come up with
    - 💬 Ask me about any problems related to my skillset. May not be able to solve; but hey, we surely can come up with something together...
