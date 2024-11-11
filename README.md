@@ -3,8 +3,7 @@
 ## hELLO pEEPs , arCHisMAN hEre😊😊😊
 
  Currently working as a Developer in Tata Consultancy Services <br>
-- 🎓👨‍🎓 fall 2023 <br>
-                  
+   - 🎓👨‍🎓 fall 2023         
    - 🔭 I’m currently working on Neural Networks, Deep Learning, NLP and Image Processing
    - 🌱 I’m currently working on Next.JS, Spring framework
    - 👯 I’m looking to collaborate on anything and everthing that you could come up with
